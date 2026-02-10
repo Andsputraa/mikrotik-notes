@@ -1,4 +1,4 @@
-MACAM MACAM BASIC KONFIGURASI MIKROTIK, SEBAGAI BERIKUT :
+RMACAM MACAM BASIC KONFIGURASI MIKROTIK, SEBAGAI BERIKUT :
 /system identity set name=RTR-JWI-01
 /system clock set time-zone-name=Asia/Jakarta
 /system ntp client set enabled=yes server-dns-names=id.pool.ntp.org
