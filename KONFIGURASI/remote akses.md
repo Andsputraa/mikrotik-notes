@@ -1,3 +1,6 @@
+
+##################################################################################################################################################################################
+
 CARA REMOT MIKROTIK DENGAN MENGGUNAKAN PERANGKAT WINGBOX
 
 LANGKAH PERTAMA :
@@ -40,3 +43,7 @@ LANGKAH KELIMA :
    Selanjutnya jika anda ingin melakukan remote Mikrotik dengan SSH atau Telnet, maka membutuhkan Aplikasi/Software PuTTy.
    Kemudian agar dapat meremote Mikrotik dari jauh menggunakan SSH dan Telnet, maka terlebih dahulu silahkan rubah port sesuai yang kalian inginkan pada menu SSH dan Telnet.
    Lalu silahkan buka PuTTy lalu pilih SSH jika ingin menggunakan SSH dan pilih Telnet jika ingin menggunakan Telnet
+
+##################################################################################################################################################################################
+
+   
