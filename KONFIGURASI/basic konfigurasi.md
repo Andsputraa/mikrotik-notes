@@ -1,3 +1,5 @@
+
+####################################################################################################
 MACAM MACAM BASIC KONFIGURASI MIKROTIK, SEBAGAI BERIKUT :
 
 /system identity set name=RTR-JWI-01
@@ -25,3 +27,5 @@ add chain=input protocol=icmp action=accept
 add chain=input in-interface=WAN action=drop
 
 /user add name=noc group=full password=xxxxxxx
+
+####################################################################################################
